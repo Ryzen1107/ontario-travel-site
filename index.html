@@ -525,9 +525,19 @@
   .img-adventure { background: linear-gradient(135deg, #1A3A5C, #2D7DD2); }
   .img-food { background: linear-gradient(135deg, #5C3A00, #C9820C); }
   .img-stay { background: linear-gradient(135deg, #2C2C54, #474787); }
+
+/* Global site navigation added for operational website */
+.site-nav{position:sticky;top:0;z-index:999;background:rgba(13,40,24,.98);backdrop-filter:blur(14px);border-bottom:1px solid rgba(82,183,136,.22);box-shadow:0 8px 28px rgba(0,0,0,.12)}
+.site-nav-inner{max-width:1200px;margin:0 auto;padding:0 24px;display:flex;align-items:center;gap:0;overflow-x:auto;scrollbar-width:none}.site-nav-inner::-webkit-scrollbar{display:none}
+.site-brand{font-family:'Playfair Display',serif;color:#C9A84C;font-size:16px;font-weight:700;text-decoration:none;white-space:nowrap;padding:14px 18px 14px 0;margin-right:12px;border-right:1px solid rgba(255,255,255,.12)}
+.site-nav a:not(.site-brand){color:rgba(255,255,255,.72);text-decoration:none;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.07em;padding:16px 12px;white-space:nowrap;border-bottom:2px solid transparent}.site-nav a:not(.site-brand):hover{color:#52B788;border-bottom-color:#52B788}
+.related-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:22px}.related-card{background:#fff;border:1px solid rgba(27,67,50,.12);border-radius:14px;padding:18px;text-decoration:none;display:block;transition:.2s}.related-card:hover{transform:translateY(-3px);box-shadow:0 14px 38px rgba(27,67,50,.10)}.related-card strong{display:block;color:#1B4332;font-family:'Playfair Display',serif;font-size:20px;margin-bottom:4px}.related-card span{font-size:12px;color:#4A5568}
+@media(max-width:760px){.site-nav-inner{padding:0 14px}.site-brand{font-size:14px}.site-nav a:not(.site-brand){font-size:10px;padding:14px 10px}}
+
 </style>
 </head>
 <body>
+<div class="site-nav"><div class="site-nav-inner"><a class="site-brand" href="index.html">Ontario Hidden Gems</a><a href="destinations/index.html">Destinations</a><a href="destinations/index.html#hidden-gems">Hidden Gems</a><a href="stays/index.html">Stays</a><a href="itineraries/index.html">Itineraries</a><a href="index.html#addresses">Map Links</a></div></div>
 
 <!-- HERO -->
 <section class="hero">
