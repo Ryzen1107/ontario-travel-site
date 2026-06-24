@@ -1,0 +1,52 @@
+# Photo Credits
+User-provided Unsplash image set, organized for local site hosting.
+- `assets/images/tobermory/hero.jpg` — original file `zen-zeee-pYZnEk_1QbA-unsplash.jpg` — Unsplash photographer/file credit: Zen
+- `assets/images/tobermory/grotto.jpg` — original file `ehalo-travel-9jHxJG8vmSM-unsplash.jpg` — Unsplash photographer/file credit: Ehalo
+- `assets/images/tobermory/flowerpot-island.jpg` — original file `ravi-patel-99E8peBP7u8-unsplash.jpg` — Unsplash photographer/file credit: Ravi
+- `assets/images/tobermory/singing-sands.jpg` — original file `ashwini-chaudhary-monty-KCwpZ21oIQA-unsplash.jpg` — Unsplash photographer/file credit: Ashwini Chaudhary
+- `assets/images/tobermory/big-tub-lighthouse.jpg` — original file `bhashika-bansal-qyLk3DWu0fM-unsplash.jpg` — Unsplash photographer/file credit: Bhashika
+- `assets/images/tobermory/georgian-bay-sunset.jpg` — original file `ehalo-travel-EFpB2cE5oUM-unsplash.jpg` — Unsplash photographer/file credit: Ehalo
+- `assets/images/muskoka/hero.jpg` — original file `alex-makarov-aewB2HOSL3g-unsplash.jpg` — Unsplash photographer/file credit: Alex
+- `assets/images/muskoka/lake.jpg` — original file `alex-makarov-8PgwJjErHLQ-unsplash.jpg` — Unsplash photographer/file credit: Alex
+- `assets/images/muskoka/port-carling.jpg` — original file `ariana-kaminski-IfbHTMn07wM-unsplash.jpg` — Unsplash photographer/file credit: Ariana
+- `assets/images/muskoka/fall-colours.jpg` — original file `juan-rojas-UHa75ke2BsM-unsplash.jpg` — Unsplash photographer/file credit: Juan
+- `assets/images/muskoka/steamship.jpg` — original file `filip-mroz-9xpdArYqYec-unsplash.jpg` — Unsplash photographer/file credit: Filip
+- `assets/images/muskoka/torrance-barrens.jpg` — original file `pixelbrain-studio-inc-lZraoAnU_08-unsplash.jpg` — Unsplash photographer/file credit: Pixelbrain Studio
+- `assets/images/muskoka/cottage-life.jpg` — original file `ariana-kaminski-8UhR5koCuCM-unsplash.jpg` — Unsplash photographer/file credit: Ariana
+- `assets/images/elora/hero.jpg` — original file `annie-vo-32ZnwcZdjBc-unsplash.jpg` — Unsplash photographer/file credit: Annie
+- `assets/images/elora/gorge.jpg` — original file `vinay-s-U9GObOAUOjE-unsplash.jpg` — Unsplash photographer/file credit: Vinay
+- `assets/images/elora/elora-mill.jpg` — original file `jason-ng-bODv3yMR-ZQ-unsplash.jpg` — Unsplash photographer/file credit: Jason Ng
+- `assets/images/elora/downtown.jpg` — original file `allen-y-5AAmd6NBGec-unsplash.jpg` — Unsplash photographer/file credit: Allen
+- `assets/images/elora/riverwalk.jpg` — original file `allen-y--XJ010lY01Y-unsplash.jpg` — Unsplash photographer/file credit: Allen Y
+- `assets/images/elora/river-view.jpg` — original file `jason-ng-8LID9EhPMYo-unsplash.jpg` — Unsplash photographer/file credit: Jason
+- `assets/images/algonquin/hero.jpg` — original file `dylan-mcleod-gwq8N9lsxsU-unsplash.jpg` — Unsplash photographer/file credit: Dylan
+- `assets/images/algonquin/lookout.jpg` — original file `ariana-kaminski-jVCKVeCnSjw-unsplash.jpg` — Unsplash photographer/file credit: Ariana
+- `assets/images/algonquin/canoe.jpg` — original file `ariana-kaminski-Yvqz4Gig_Kk-unsplash.jpg` — Unsplash photographer/file credit: Ariana
+- `assets/images/algonquin/lake.jpg` — original file `jasmine-a-so-Dq1K2seDuCQ-unsplash.jpg` — Unsplash photographer/file credit: Jasmine A
+- `assets/images/algonquin/forest.jpg` — original file `ariana-kaminski-Z4nbY2Kqv38-unsplash.jpg` — Unsplash photographer/file credit: Ariana
+- `assets/images/algonquin/fall-colours.jpg` — original file `jason-ng-0djRR5uVYHY-unsplash.jpg` — Unsplash photographer/file credit: Jason
+- `assets/images/algonquin/misty-lake.jpg` — original file `ariana-kaminski--9z8jR-KHsY-unsplash.jpg` — Unsplash photographer/file credit: Ariana Kaminski 
+- `assets/images/niagara-on-the-lake/hero.jpg` — original file `vlad-namashko--GeoWajvZIA-unsplash.jpg` — Unsplash photographer/file credit: Vlad Namashko
+- `assets/images/niagara-on-the-lake/downtown.jpg` — original file `vlad-namashko--GeoWajvZIA-unsplash.jpg` — Unsplash photographer/file credit: Vlad Namashko
+- `assets/images/niagara-on-the-lake/lakefront.jpg` — original file `alexander-anderson-i6W8PW_ekjU-unsplash.jpg` — Unsplash photographer/file credit: Alexander
+- `assets/images/niagara-on-the-lake/sailing.jpg` — original file `tim-gouw-exxNNGUWOb0-unsplash.jpg` — Unsplash photographer/file credit: Tim
+- `assets/images/niagara-on-the-lake/shoreline.jpg` — original file `zhendong-wang-F0U-KxGulm0-unsplash.jpg` — Unsplash photographer/file credit: Zhendong Wang
+- `assets/images/niagara-on-the-lake/river-view.jpg` — original file `dale-honeycutt-Vqco2uwrXq8-unsplash.jpg` — Unsplash photographer/file credit: Dale
+- `assets/images/niagara-on-the-lake/lighthouse.jpg` — original file `ronin-qvvktzxmb0s-unsplash.jpg` — Unsplash photographer/file credit: Ronin
+- `assets/images/prince-edward-county/hero.jpg` — original file `april-c-0SpwfxddvrY-unsplash.jpg` — Unsplash photographer/file credit: April
+- `assets/images/prince-edward-county/sandbanks.jpg` — original file `april-c-0SpwfxddvrY-unsplash.jpg` — Unsplash photographer/file credit: April
+- `assets/images/prince-edward-county/country-road.jpg` — original file `andrew-gaz-523MjJL4644-unsplash.jpg` — Unsplash photographer/file credit: Andrew
+- `assets/images/stratford/hero.jpg` — original file `eleni-afiontzi-i9OmYoH9P3o-unsplash.jpg` — Unsplash photographer/file credit: Eleni
+- `assets/images/stratford/avon-river.jpg` — original file `ben-grayland-bXZm8lGAov4-unsplash.jpg` — Unsplash photographer/file credit: Ben
+- `assets/images/stratford/theatre.jpg` — original file `eleni-afiontzi-i9OmYoH9P3o-unsplash.jpg` — Unsplash photographer/file credit: Eleni
+- `assets/images/stratford/downtown.jpg` — original file `bruce-barrow-FMFIQcj_Bjk-unsplash.jpg` — Unsplash photographer/file credit: Bruce
+- `assets/images/stratford/gardens.jpg` — original file `julian-nortoft-1q-QBnsGdXg-unsplash.jpg` — Unsplash photographer/file credit: Julian Nortoft
+- `assets/images/stratford/fall-leaves.jpg` — original file `julian-nortoft-lgMJteOWjPE-unsplash.jpg` — Unsplash photographer/file credit: Julian
+- `assets/images/haliburton/hero.jpg` — original file `sina-bahar-GnuRxKsTmKs-unsplash.jpg` — Unsplash photographer/file credit: Sina
+- `assets/images/haliburton/lake.jpg` — original file `derek-sutton-QLY4Vj2A3mQ-unsplash.jpg` — Unsplash photographer/file credit: Derek
+- `assets/images/haliburton/forest.jpg` — original file `sina-bahar-hH-aNO1Sl_4-unsplash.jpg` — Unsplash photographer/file credit: Sina Bahar
+- `assets/images/haliburton/lookout.jpg` — original file `sina-bahar-4XXAmFycG4U-unsplash.jpg` — Unsplash photographer/file credit: Sina
+- `assets/images/haliburton/dock.jpg` — original file `jeffrey-eisen-Rf8ehM0Ci-Q-unsplash.jpg` — Unsplash photographer/file credit: Jeffrey Eisen
+- `assets/images/haliburton/canoe.jpg` — original file `jeffrey-eisen-PQcLk3Thj0M-unsplash.jpg` — Unsplash photographer/file credit: Jeffrey
+- `assets/images/haliburton/sunset.jpg` — original file `jeffrey-eisen-ocekD4HrvEU-unsplash.jpg` — Unsplash photographer/file credit: Jeffrey
+- `assets/images/haliburton/golden-lake.jpg` — original file `jeffrey-eisen-OvhX5g7Njzc-unsplash.jpg` — Unsplash photographer/file credit: Jeffrey
