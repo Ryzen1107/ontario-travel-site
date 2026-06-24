@@ -1,0 +1,1 @@
+V16 consolidated rebuild: restored Claude-style homepage, removed prototype section, updated nav/stats, local image references, corrected Sandbanks wording, kept destination/stay/itinerary pages. Upload contents to GitHub root and commit to main.
