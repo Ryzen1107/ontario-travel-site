@@ -1,0 +1,1 @@
+Patch fixes homepage language that felt like a project conversation. Upload index.html to the repository root.
