@@ -1,0 +1,13 @@
+V23 QA REVIEW REPORT
+Review cycle summary: 8 passes were completed over the homepage, CSS, public copy, page consistency, tags, local links, image references, and gift-readiness.
+Pass 1: Homepage hero layout inspected against the live screenshot; oversized green space identified.
+Pass 2: CSS adjusted to reduce hero height, prevent collage clipping, and improve desktop/mobile hero spacing.
+Pass 3: Homepage copy revised from generic Ontario guide language toward Our Canada / Aman + Shreya gift framing.
+Pass 4: Public-facing unfinished language removed, including future-polish wording and internal project notes.
+Pass 5: Destination pages scanned for draft/photo/source notes and cleaned where visible to visitors.
+Pass 6: Generic Perfect For tags replaced on affected pages with destination-specific tags.
+Pass 7: Footer branding standardized toward Our Canada; Our Canadian Firsts footer repaired.
+Pass 8: Local link and image-path validation completed; missing destination-index images remapped to existing local assets.
+Remaining photo dependency: some hidden-gem thumbnails intentionally reuse existing local images until final personal photos are added.
+Validation result:
+No missing relative links/images or blocked public-draft text found in checked HTML.
